@@ -1,0 +1,6 @@
+﻿  MainApp.cpp
+C:\Luaan\SE07\SE07\MainApp.cpp(163,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Luaan\SE07\SE07\MainApp.cpp(166,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Luaan\SE07\SE07\MainApp.cpp(168,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Luaan\SE07\SE07\MainApp.cpp(169,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SE07.vcxproj -> C:\Luaan\SE07\x64\Debug\Client.exe
